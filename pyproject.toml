@@ -1,0 +1,23 @@
+[project]
+name = "smartwarehouse"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "thanapong"}
+]
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "streamlit (>=1.56.0,<2.0.0)",
+    "numpy (>=2.4.4,<3.0.0)",
+    "pandas (>=3.0.2,<4.0.0)",
+    "matplotlib (>=3.10.8,<4.0.0)",
+    "fastapi (>=0.135.3,<0.136.0)",
+    "networkx (>=3.6.1,<4.0.0)",
+    "plotly (>=6.7.0,<7.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
