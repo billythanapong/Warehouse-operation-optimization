@@ -108,7 +108,6 @@ streamlit run streamlit_app/app.py
 | Data & Statistics | Python, Pandas, NumPy, SciPy |
 | Visualization | Matplotlib, Seaborn, Plotly, Tableau |
 | Graph / Routing | NetworkX (Dijkstra) |
-| Optimization | PuLP / Google OR-Tools |
 | UI | Streamlit |
 | Version Control | Git / GitHub |
 
