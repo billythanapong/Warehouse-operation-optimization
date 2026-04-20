@@ -1,2 +1,3 @@
 .venv
 data/logistic_dataset_modified_user.csv
+streamlit_app/components/rop project.drawio.svg
