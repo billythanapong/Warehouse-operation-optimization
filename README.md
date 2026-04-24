@@ -67,7 +67,7 @@ To simplify the scope of the simulation, the following constraints and assumptio
 ## Progression
 - [x] Build a clear structured workflow
     - [x] Create useable POC version.  
-- [] Refactor code by using OOP
+[OnProgress] Refactor code by using OOP
 
 ---
 
